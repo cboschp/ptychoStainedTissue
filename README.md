@@ -3,7 +3,7 @@ Brain tissue ultrastructure resolved with synchrotron X-ray ptychography.
 
 The code in this repo supports the plots and findings presented in this study:
 
-> **3D-Imaging of synapses in neuronal tissues with synchrotron X-ray ptychography**
+> **Non-destructive X-ray tomography of brain tissue ultrastructure**
 > 
 > Carles Bosch, Tomas Aidukas, Mirko Holler, Alexandra Pacureanu, Elisabeth Müller, Christopher J. Peddie, Yuxin Zhang, Phil Cook, Lucy Collinson, Oliver Bunk, Andreas Menzel, Manuel Guizar-Sicairos, Gabriel Aeppli, Ana Diaz, Adrian A. Wanner, Andreas T. Schaefer.
 > 
