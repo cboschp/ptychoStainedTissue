@@ -67,7 +67,7 @@ ax.XTick = [-5e3, 0, 5e3];
 ax.XTickLabel = {'-5 µm','0','5 µm'};
 
 fgttl = ['mass_change_accDoseSeries_' seriesOfInterest{1}];
-figSave([dirs.fg filesep fgttl]);
+% figSave([dirs.fg filesep fgttl]);
 
 fg_massLoss_seriesID_quadSlices(tT_sorted_series_h,seriesOfInterest(2),'nonrigid', ...
     seriesOfInterest(2),'k','tomogram',false,true,true,fg);
@@ -123,7 +123,5 @@ for i = 1:nResins
     fgttl = ['mass_slice_accDoseSeries_top_resin_' char(resins(i))];
     % figSave([dirs.fg filesep fgttl]);
 end
-
-
 
 %%%%%%%
