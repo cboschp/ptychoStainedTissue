@@ -188,3 +188,29 @@ fg_dose_r_vs_nr_colorT_loglog(fg, t, "EPL-1", true, ...
 
 
 %%%%%%
+
+%% Cases where resolution is better in nonrigid than in rigid
+
+idxrnr = ~isnan(tT_sorted_series_h.resolution_r) & ...
+    ~isnan(tT_sorted_series_h.resolution_nr);
+tt_rnr = tT_sorted_series_h(idxrnr,:);
+tt_rnr.deltar = tt_rnr.resolution_r - tt_rnr.resolution_nr;
+
+n_tomograms = height(tt_rnr);
+n_tomograms_improved = sum(tt_rnr.deltar>0);
+
+threshold_nm = 1;
+idxlargedelta = abs(tt_rnr.deltar)>threshold_nm;
+n_tomograms_large = sum(idxlargedelta);
+n_tomograms_improvedlarge = sum(tt_rnr.deltar(idxlargedelta)>threshold_nm);
+
+%% Summary r vs nr resolution
+disp(['Resolution in non-rigid reconstruction improved over rigid in ' ...
+    num2str(n_tomograms_improved) '/' num2str(n_tomograms) ' tomograms']);
+
+disp(['Resolution in non-rigid reconstruction was different than in rigid by more than 1nm in ' ...
+    num2str(n_tomograms_improvedlarge) '/' num2str(n_tomograms) ' tomograms']);
+
+disp(['Resolution in non-rigid reconstruction improved over rigid by more than 1nm in ' ...
+    num2str(n_tomograms_improvedlarge) '/' num2str(n_tomograms_large) ' tomograms']);
+
