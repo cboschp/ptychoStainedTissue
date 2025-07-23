@@ -14,7 +14,7 @@ The code in this repo supports the plots and findings presented in this study:
 
 ### Tomogram metadata
 
-The data to run several plots in this repo can be found in this structured table: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12802475.svg)](https://doi.org/10.5281/zenodo.12802475).
+The data to run several plots in this repo can be found in this structured table: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16362800.svg)](https://doi.org/10.5281/zenodo.16362800).
 
 ### All tomograms
 
