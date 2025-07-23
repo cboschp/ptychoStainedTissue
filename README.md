@@ -9,6 +9,7 @@ The code in this repo supports the plots and findings presented in this study:
 > 
 > bioRxiv 2023.11.16.567403; doi: [https://doi.org/10.1101/2023.11.16.567403](https://doi.org/10.1101/2023.11.16.567403) 
 
+Frozen record of the code version 1.1.0 released with the peer-reviewed manuscript: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16364654.svg)](https://doi.org/10.5281/zenodo.16364654)
 
 ## Datasets
 
