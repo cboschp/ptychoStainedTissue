@@ -42,7 +42,7 @@ Paired PXCT-FIBSEM datasets.
 | Y357 | N/A (likely EPL) | Y357_3dot | 853 | 42.41 nm | **38.21 nm** | ram-lak | [Y357_3dot_cSAXS_853_S14468-S15686_rigid_ramlak](https://wklink.org/4442) | **[Y357_3dot_cSAXS_853_S14468_to_S15686_nr_ramlak](https://wklink.org/3741)** |  (27.6 nm)^3 | [Y357_3dot_FIBSEM](https://wklink.org/5566) | (8 nm)^3 | [Y357_3dot_joined_wFIBSEM-cSAXS](https://wklink.org/3209); [FIBSEM & PXCT segmentation in CAVE](https://spelunker.cave-explorer.org/#!middleauth+https://global.daf-apis.com/nglstate/api/v1/5950833582669824) | (6.9 nm)^3 | [Y357_3dot_cSAXS_853_S14468-S15686_nr_ramlak_zRev](https://wklink.org/4296) | [Y357_3dot_wFIBSEM](https://wklink.org/1896) |
 | Y357 | N/A (likely GCL) | Y357_30um | 856-859 | 67.50 nm | **49.48 nm** | ram-lak | [Y357_30mu_cSAXS_856_S17672-S19092_rigid_ramlak](https://wklink.org/6945) | **[Y357_30mu_cSAXS_856_S17672-S19092_nr_ramlak](https://wklink.org/2864)** |  (27.6 nm)^3 | [Y357_30um_FIBSEM](https://wklink.org/3529) | (8 nm)^3 | [Y357_30um_joined_wFIBSEM-cSAXS](https://wklink.org/7681) | (6.9 nm)^3 | [Y357_30mu_cSAXS_856_S17672-S19092_nr_ramlak_zRev](https://wklink.org/1947) | [Y357_30um_wFIBSEM](https://wklink.org/9612) |
 
-## Segmented PXCT datasets
+### Segmented PXCT datasets
 
 A dense segmentation of a region of interest of the best efforts PXCT dataset (non-rigid reconstruction) using tools described in [Lee et al, 2017](https://arxiv.org/abs/1706.00120) and [Macrina et al. 2021](https://doi.org/10.1101/2021.08.04.455162) can be accessed via the link below:
 
