@@ -52,4 +52,4 @@ A dense segmentation of a region of interest of the best efforts PXCT dataset (n
 
 ## Methods for ptychographic and tomographic reconstructions
 
-The algorithms used for ptychographic and tomographic reconstructions are derived from the generic packages can be openly accessed through the [cSAXS beamline's webpage](https://www.psi.ch/en/sls/csaxs/software) under this [license](https://www.psi.ch/sites/default/files/import/sls/csaxs/ComputingEN/License.txt).
+The algorithms used for ptychographic and tomographic reconstructions are derived from the generic packages and can be openly accessed through the [cSAXS beamline's webpage](https://www.psi.ch/en/sls/csaxs/software) under this [license](https://www.psi.ch/sites/default/files/import/sls/csaxs/ComputingEN/License.txt).
