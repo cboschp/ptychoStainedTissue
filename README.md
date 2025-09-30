@@ -11,7 +11,7 @@ The code in this repo supports the plots and findings presented in this study:
 
 Please refer to this publication for insights on sample preparation, imaging, methods and interpretation of results.
 
-Frozen record of the code version 1.1.0 released with the peer-reviewed manuscript: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16364654.svg)](https://doi.org/10.5281/zenodo.16364654)
+Frozen record of the code version 1.1.1 released alongside manuscript publication: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17233854.svg)](https://doi.org/10.5281/zenodo.17233854)
 
 ## Datasets
 
