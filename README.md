@@ -3,11 +3,11 @@ Brain tissue ultrastructure resolved with synchrotron X-ray ptychography.
 
 The code in this repo supports the plots and findings presented in this study:
 
-> **Non-destructive X-ray tomography of brain tissue ultrastructure**
+> **Nondestructive X-ray tomography of brain tissue ultrastructure**
 > 
 > Carles Bosch, Tomas Aidukas, Mirko Holler, Alexandra Pacureanu, Elisabeth Müller, Christopher J. Peddie, Yuxin Zhang, Phil Cook, Lucy Collinson, Oliver Bunk, Andreas Menzel, Manuel Guizar-Sicairos, Gabriel Aeppli, Ana Diaz, Adrian A. Wanner, Andreas T. Schaefer.
 > 
-> bioRxiv 2023.11.16.567403; doi: [https://doi.org/10.1101/2023.11.16.567403](https://doi.org/10.1101/2023.11.16.567403) 
+> Nature Methods (2025). [https://doi.org/10.1038/s41592-025-02891-0](https://doi.org/10.1038/s41592-025-02891-0) 
 
 Please refer to this publication for insights on sample preparation, imaging, methods and interpretation of results.
 
